@@ -80,7 +80,7 @@ plt.show()
 
 Question 4: Looking at the above visualization / based on what you know regarding the LIF model -- what aspect of this model is most unlike a real biological neuron? What is missing?
     
-    idk
+    The falling of the membrane potential around 70 ms is unlike a biological neuron. It does not account for real biological processes and things like ion channels. This visualization also does not show the adaptation of real neurons over time as it only shows one firing potential.
 
 Question 5: what was the most challenging aspect of this homework?
     
