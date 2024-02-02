@@ -4,6 +4,7 @@
 
 ## Group 3 - Alex Ramirez, Jackie Gore, Eva Duvaris, Steven Vacha, Ethan Chang
 
+#### homework 3 parts after homework 2 questions
 
 General Explanantion of the code: This code writes for a visualization of a simple LIF neuron that fires when the membrane potential exceeds the already defined "threshold" put in place. This code shows the neurons response to a step input current then shows the membrane potential changes over a period of time. We have two examples of the possible code to visualize below.
 
