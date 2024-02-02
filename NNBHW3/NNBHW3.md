@@ -90,7 +90,9 @@ Question 6: Estimate how long it took you to complete this homework
 
     It took about 25 minutes.
 
-Part 3:
+
+# Homework 3 parts
+
 
 1) Below your original document use markdown cells to write a paragraph explaining why the Leaky Integrate and Fire model needs to have voltage-gated sodium channels added to it in order to be a better model of a neuron and what doing this should theoretically accomplish / how it will change your visualizations 
 
