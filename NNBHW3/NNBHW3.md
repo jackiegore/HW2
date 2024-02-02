@@ -1,5 +1,5 @@
 
-# Homeowork 2 
+# Homework 3 (update of hw2) 
 
 
 ## Group 3 - Alex Ramirez, Jackie Gore, Eva Duvaris, Steven Vacha, Ethan Chang
