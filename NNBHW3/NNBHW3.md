@@ -214,7 +214,7 @@ plt.show()
 
 4) In another set of Markdown code comment on your ability to work collaboratively using Git-Hub. For instance, did you encounter any problems? How did you overcome them? Or are you still unable to make it work? (2pts) [Note: you don't technically have to use Github to work collaboratively -- you could write code in a google doc and have one person input it into JupyterLabs, but for this assignment I do suggest simply trying it out and learning to use this useful technology!]
 
-**It was difficult and confsuing trying to edit the previous the homework sumission. When trying to edit on github, the .ipynb file became all code and was very confusing to look at. So, we just indiviudally downloaded the file and tried to work on it on our own and then compared our work and tried to combine some charassteristics. We ended up just uploading a markdown file instead of a .ipynb file.**
+**It was difficult and confsuing trying to edit the previous the homework sumission. When trying to edit on github, the .ipynb file became all code and was very confusing to look at. So, we just indiviudally downloaded the file and tried to work on it on our own and then compared our work and tried to combine some characteristics. We ended up just uploading a markdown file instead of a .ipynb file.**
 
 5) Finally, looking ahead, based on Lectures #5-6 -- give a prediction of how complicated you think the coding will be in order to model a simple feedforward neural network trained using gradient descent and backpropagation (you may need to look these terms up)? Why does it have to be so much more complicated than the LIF model and/or what does this increased complexity tell us about the information contained within it? 
 
