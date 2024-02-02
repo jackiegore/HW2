@@ -94,7 +94,7 @@ Part 3:
 
 1) Below your original document use markdown cells to write a paragraph explaining why the Leaky Integrate and Fire model needs to have voltage-gated sodium channels added to it in order to be a better model of a neuron and what doing this should theoretically accomplish / how it will change your visualizations 
 
-    The LIF model needs voltage-gated sodium channels to be able to reach the membrane potnetial and reset back down.
+    **The LIF model needs voltage-gated sodium channels to be able to reach the membrane potnetial and reset back down.**
 
 2) Below the above paragraph copy your original LIF model and see if you can update it to include voltage-gated sodium channels and produce a new visualization 
 
@@ -210,14 +210,14 @@ plt.show()
 
 3) Use Markdown cells to comment on what changes had to be made and why or to discuss what went wrong/why you were unable to do this task if you struggled
 
-The difference between the new LIF with the voltage-gated sodium channels and the old one without the channels is the inclusion of the sodium parameters. In the init method, a sodium channel parameter was added which initaies the activation/inactivation variables. We also had to add a method that updates the sodium channel dynamics which are updated when not in refractory period.
+**The difference between the new LIF with the voltage-gated sodium channels and the old one without the channels is the inclusion of the sodium parameters. In the init method, a sodium channel parameter was added which initaies the activation/inactivation variables. We also had to add a method that updates the sodium channel dynamics which are updated when not in refractory period.**
 
 4) In another set of Markdown code comment on your ability to work collaboratively using Git-Hub. For instance, did you encounter any problems? How did you overcome them? Or are you still unable to make it work? (2pts) [Note: you don't technically have to use Github to work collaboratively -- you could write code in a google doc and have one person input it into JupyterLabs, but for this assignment I do suggest simply trying it out and learning to use this useful technology!]
 
-It was difficult and confsuing trying to edit the previous the homework sumission. When trying to edit on github, the .ipynb file became all code and was very confusing to look at. So, we just indiviudally downloaded the file and tried to work on it on our own and then compared our work and tried to combine some charassteristics.
+**It was difficult and confsuing trying to edit the previous the homework sumission. When trying to edit on github, the .ipynb file became all code and was very confusing to look at. So, we just indiviudally downloaded the file and tried to work on it on our own and then compared our work and tried to combine some charassteristics. We ended up just uploading a markdown file instead of a .ipynb file.**
 
 5) Finally, looking ahead, based on Lectures #5-6 -- give a prediction of how complicated you think the coding will be in order to model a simple feedforward neural network trained using gradient descent and backpropagation (you may need to look these terms up)? Why does it have to be so much more complicated than the LIF model and/or what does this increased complexity tell us about the information contained within it? 
 
-It would be slightly complicated because we would need bias, and weights. To feedforward, we need to apply a non-linear function to all inputs and then determine the loss (compare actual/predicted). To backpropagate, we need to compute gradients of the loss which is to optimize the parameters. It's a lot of coding and then we would have to conduct a training loop and check for convergence.
-It has to be more complicated than LIf modeling because LIF modeling is just simulating the nueron actiavtion spikes hwile the neural nnetwrok has to recognize patterns. 
+**It would be slightly complicated because we would need bias, and weights. To feedforward, we need to apply a non-linear function to all inputs and then determine the loss (compare actual/predicted). To backpropagate, we need to compute gradients of the loss which is to optimize the parameters. It's a lot of coding and then we would have to conduct a training loop and check for convergence.
+It has to be more complicated than LIf modeling because LIF modeling is just simulating the nueron actiavtion spikes hwile the neural nnetwrok has to recognize patterns.**
 
