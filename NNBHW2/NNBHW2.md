@@ -1,6 +1,6 @@
 Group 3 - Alex Ramirez, Jackie Gore, Eva Duvaris, Steven Vacha, Ethan Chang
 
-Here is the LIF code:
+General Explanantion of the code: This code writes for a visualization of a simple LIF neuron that fires when the membrane potential exceeds the already defined "threshold" put in place. This code shows the neurons response to a step input current then shows the membrane potential changes over a period of time. We have two examples of the possible code to visualize below.
 
 
 ```python
@@ -218,6 +218,6 @@ It was difficult and confsuing trying to edit the previous the homework sumissio
 
 5) Finally, looking ahead, based on Lectures #5-6 -- give a prediction of how complicated you think the coding will be in order to model a simple feedforward neural network trained using gradient descent and backpropagation (you may need to look these terms up)? Why does it have to be so much more complicated than the LIF model and/or what does this increased complexity tell us about the information contained within it? 
 
-It would be slightly comlpicated because we would need bias, and weights. To feedforward, we need to apply a non-linear function to all inputs and then determine the loss (compare actual/predicted). To backpropagate, we need to compute gradients of the loss which is to optimize the parameters. It's a lot of coding and then we would have to conduct a training loop and check for convergence.
+It would be slightly complicated because we would need bias, and weights. To feedforward, we need to apply a non-linear function to all inputs and then determine the loss (compare actual/predicted). To backpropagate, we need to compute gradients of the loss which is to optimize the parameters. It's a lot of coding and then we would have to conduct a training loop and check for convergence.
 It has to be more complicated than LIf modeling because LIF modeling is just simulating the nueron actiavtion spikes hwile the neural nnetwrok has to recognize patterns. 
 
