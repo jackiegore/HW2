@@ -94,7 +94,7 @@ Part 3:
 
 1) Below your original document use markdown cells to write a paragraph explaining why the Leaky Integrate and Fire model needs to have voltage-gated sodium channels added to it in order to be a better model of a neuron and what doing this should theoretically accomplish / how it will change your visualizations 
 
-    **The LIF model needs voltage-gated sodium channels to be able to reach the membrane potnetial and reset back down.**
+    **The LIF model needs voltage-gated sodium channels to be able to reach the membrane potnetial and reset back down. **
 
 2) Below the above paragraph copy your original LIF model and see if you can update it to include voltage-gated sodium channels and produce a new visualization 
 
